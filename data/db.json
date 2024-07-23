@@ -1,0 +1,43 @@
+{
+  "blogs": [
+    {
+      "title": "Why have to be strong?",
+      "image": "/strong.jpg",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem dolorem ex error exercitationem deserunt, labore suscipit ipsum sed vero autem fugiat repudiandae, nostrum culpa aspernatur eveniet? At cupiditate ipsam iLorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, illum! Sequi assumenda inventore repellat deserunt reprehenderit soluta necessitatibus nobis, quibusdam quos quas sunt ratione, excepturi earum tempore consequuntur ipsum quidem! Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab quos possimus eveniet quia quam natus dolorem temporibus? Mollitia asperiores, omnis id debitis quaerat sapiente facilis cupiditate molestias commodi, necessitatibus amet?",
+      "author": "Sanduni",
+      "date": "2024/07/02",
+      "id": "2"
+    },
+    {
+      "id": "a5b3",
+      "image": "/jesus.jpg",
+      "title": "Jesus Christ came to make the invisible God, visible",
+      "body": "Since the beginning of time, people have sought to understand their purpose and identity. In essence, they have pondered the questions, “Who am I, and why do I exist?” Looking for purpose in financial success, accruing possessions, relationships, or pleasure will always leave us wanting more.Without Christ, we search over and over again and come up short because He is the only One who can satisfy our greatest needs and deepest desires. Augustine said, “Our hearts are restless until they find their rest in Thee.”Christ came to show us who God is in a way that our minds and hearts could understand. He came to show us by His own experience that He understands us and what we’re going through, and He wants a relationship with us. The Almighty God, El Shaddai, came to show Himself to the world through the physical person of Jesus Christ, never once diminishing who He is as God.",
+      "author": "Kasun",
+      "date": "2024/07/05"
+    },
+    {
+      "id": "00a6",
+      "image": "/god.jpg",
+      "title": "Praying God-Sized Prayers",
+      "body": "hat happens when our God-sized prayers reveal how truly amazing God is. Elijah prayed audaciously because he had a clear understanding of who God is and what God can really do. Elijah believed God when God says to ask and it will be answered. E. M. Bounds puts it like this, “Our praying needs to be pressed and pursued with an energy that never tires, a persistency which will not be denied, and a courage that never fails.” God wants us to pursue Him. He wants to build strength and perseverance in us and He does that sometimes by not answering our prayers right away. He is growing us and maturing us all the time. When we don’t give up asking, seeking and knocking what we receive is of more worth to us. ",
+      "author": "Sanduni",
+      "date": "2024/07/08"
+    },
+    {
+      "id": "bb8c",
+      "image": "/self.jpg",
+      "title": "The one thing I would tell to my 16 year old self",
+      "body": "You’ll be posting loads of engaging content, so be sure to keep your blog organized with Categories that also allow readers to explore more of what interests them. Each category of your blog has its own page that’s fully customizable. Add a catchy title, a brief description and a beautiful image to the category page header to truly make it your own. You can also add tags (#vacation #dream #summer) throughout your posts to reach more people, and help readers search for relevant content. Using hashtags can expand your post reach and help people find the content that matters to them. Go ahead, #hashtag away.\nBlogging gives your site a voice, so let your business’ personality shine through. Are you a creative agency? Go wild with original blog posts about recent projects, cool inspirational ideas, or what your company culture is like. Add images, and videos to really spice it up, and pepper it with slang to keep readers interested. Are you a programmer? Stay on the more technical side by offering weekly tips, tricks, and hacks that show off your knowledge of the industry. No matter what type of business you have, one thing is for sure - blogging gives your business the opportunity to be heard in a way in a different and unconventional way.  ",
+      "author": "nisham"
+    },
+    {
+      "id": "065c",
+      "title": "lorem ipsum generator ",
+      "image": "/lorem.jpg",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. \nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "author": "lorem",
+      "date": "2024-07-24"
+    }
+  ]
+}
